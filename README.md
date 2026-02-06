@@ -45,15 +45,15 @@ Here's a peek at the weapons and spells I wield in the field:
 ## Languages & Protocols:
 
 * Python (for scripting my way out of trouble)
-* C/C++ (when I need to get down to the metal)
 * MQTT & CoAP (the lingua franca of IoT)
 * HTTP/HTTPS (because the web is still a thing)
 
 ## Connectivity Kung Fu:
 
 * NB-IoT: The stealthy, low-power master.
-* LoRaWAN: Long-range whispers through the air.
-* LTE-M: The cellular powerhouse for IoT.
+* Halow (802.11ah): Long-range whispers through the air.
+* LTE-CatM: The cellular powerhouse for IoT.
+* FWA 5G SA / NSA for getting funky from Cellular to home / business)
 * Good ol' Wi-Fi and Bluetooth (for when things are closer).
 
 ## Cloud Incantations:
