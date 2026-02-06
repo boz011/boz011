@@ -1,8 +1,18 @@
-title: Clint Wallingsford - IoT in Telecom Specialist
+#Site Settings
+title: Clint Wallingsford - IoT, Wifi, Cellular
 email: cawallingsfords@gmail.com
-description: >-
+description: Bringing together wired and wireless 
   Passionate Field Application Engineer specializing in Internet of Things (IoT) within Telecommunications.
   Exploring the intersection of connectivity, smart devices, and network infrastructure.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://boz011.github.io/[your-repo-name]" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://boz011/github.io"
 github_username: boz011
+#Theme
+theme: jekyll-theme-minima
+author:
+name: Clint Wallingsford
+email: cawallingsfords@gmail.com
+#Build Settings
+plugins:
+-jekyll-feed
+-jekyll-seo-tag
