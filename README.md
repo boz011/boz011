@@ -1,91 +1,50 @@
-Yo, the name's Clint Wallingsford, and I speak fluent in bits, bytes, and the ancient tongue of telecom towers. I'm a Field Application Engineer diving headfirst into the gnarly world where the Internet of Things collides with the raw power of telco infrastructure.
+# Hey there! I'm Boz ⬡
 
-Think of me as the digital shaman who coaxes smart devices to play nice with the network gods. I wrestle with latency demons, charm finicky sensors, and occasionally perform ritualistic debugging under the pale moonlight.
+**Field Application Engineer** specializing in IoT, telecom, and wireless networking. I bridge the gap between cutting-edge tech and real-world deployments.
 
-## My Quests Include:
+## 🛠️ Tech Stack & Expertise
 
-* **LPWAN Sorcery:** Conjuring connectivity with NB-IoT, LoRaWAN, and that LTE-M voodoo.
-* **Cellular Whispering:** Making sure your cellular IoT gadgets actually *talk* to the towers.
-* **Network Ninja Skills:** Slicing through bottlenecks and optimizing data flow like a digital Hattori Hanzo.
-* **Industrial Automation Mayhem:** Bringing the future to factories, one sensor at a time.
-* **Smart City Shenanigans:** Turning mundane urban landscapes into interconnected playgrounds.
+**Wireless & RF:**
+- WiFi (CWNA/CWSP certified) - 802.11a/b/g/n/ac/ax/be, high-density deployments
+- Cellular IoT - NB-IoT, LTE-M, 5G SA/NSA
+- LPWAN - LoRaWAN, Wi-Fi HaLow (802.11ah)
+- RF planning, spectrum analysis, antenna design
 
-## Peep My Exploits:
+**Networking:**
+- CCNA certified - routing, switching, VLANs
+- Cisco Catalyst 9800 WLC architecture
+- Network security, RADIUS, 802.1X
 
-Check out the `project-showcase/` directory for tales of my field conquests.
+**Development:**
+- Python (primary) - automation, simulation, data analysis
+- C++ (secondary) - embedded systems
+- FastAPI, web frameworks
+- Git, CI/CD workflows
 
-## Wanna Collab or Just Say "Sup"?
+## 🚀 Featured Projects
 
-Hit up the `contact-deets.md` for the secret handshake.
+### [LPWAN Simulator](https://github.com/boz011/sub-Ghz-heat-map)
+Advanced wireless environment simulator supporting LoRaWAN, NB-IoT, and Wi-Fi HaLow. Features interactive web UI, propagation modeling, interference analysis, and publication-ready heatmaps.
 
-**Warning:** May spontaneously speak in technical jargon and get overly excited about packet captures. Proceed with caution. 😉
+**Tech:** Python, FastAPI, Canvas API, NumPy
 
-2. about-me.md (Your Legend):
-# The Ballad of boz011 - From Wires to Wireless Wizardry 📜
+### [Stadium WiFi Architecture](https://github.com/boz011/stadium-wifi-deployment)
+Large-scale WiFi deployment study for stadiums and large venues. Cisco Catalyst 9800 WLC design supporting 30K-80K+ concurrent clients with comprehensive VLAN segmentation.
 
-So, you wanna know what makes this digital gremlin tick? Well, it all started with [a slightly exaggerated but cool origin story involving taking apart electronics as a kid or something related to early tech]. That curiosity spiraled into a full-blown obsession with how things connect and communicate.
+**Tech:** Cisco networking, high-density WiFi, capacity planning
 
-Fast forward through CWNP, CWNA, CWSP, CCNA, Telecom, Gateways, Chipset Vendors. Now, I'm in the trenches, making sure your IoT dreams don't crash and burn in a fiery heap of dropped packets.
+## 📈 Current Focus
 
-My toolbox is overflowing with:
+- Building open-source tools for RF/wireless engineering
+- Expanding GitHub presence with technical content
+- Exploring Rust for performance-critical networking applications
 
-* The sacred texts of MQTT and CoAP.
-* A black belt in Wi-Fi, Bluetooth, and all things radio.
-* The uncanny ability to diagnose network ailments with just a few cryptic logs.
-* A deep understanding of the cloud's mystical powers (AWS, Azure, you name it).
-* And a healthy dose of caffeine-fueled problem-solving mojo.
+## 🌐 Let's Connect
 
-I'm not afraid to get my hands dirty (literally, in dusty server rooms, and figuratively, in complex configurations). If it involves making machines talk to each other in cool and innovative ways, I'm all in.
+- **GitHub:** You're already here! 
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) for professional networking
+- **X/Twitter:** Following the latest in IoT and wireless tech
 
-3. tech-stack.md (Your Arsenal):
-# My Digital Armory ⚔️
+---
 
-Here's a peek at the weapons and spells I wield in the field:
-
-## Languages & Protocols:
-
-* Python (for scripting my way out of trouble)
-* MQTT & CoAP (the lingua franca of IoT)
-* HTTP/HTTPS (because the web is still a thing)
-
-## Connectivity Kung Fu:
-
-* NB-IoT: The stealthy, low-power master.
-* Halow (802.11ah): Long-range whispers through the air.
-* LTE-CatM: The cellular powerhouse for IoT.
-* FWA 5G SA / NSA for getting funky from Cellular to home / business)
-* Good ol' Wi-Fi and Bluetooth (for when things are closer).
-
-## Cloud Incantations:
-
-* AWS IoT Core (summoning devices to the cloud)
-* Azure IoT Hub (Microsoft's mystical IoT realm)
-
-## Tools of the Trade:
-
-* Network Analyzers (Wireshark is my spirit animal)
-* Spectrum Analyzers (peeking into the RF ether)
-* Various Microcontroller Platforms (because hardware is still cool)
-* More cables and adapters than you can shake a stick at.
-
-This list is always evolving as new tech emerges from the digital forge. Stay tuned!
-
-4. project-showcase/ (Tales of Victory):
-Create markdown files for each project, like smart-city-lights.md:
-# Smart City Lights: Illuminating the Future (Literally) 💡
-
-**The Problem:** Dumb streetlights wasting energy and being a pain to manage.
-
-**My Quest:** Implement a smart lighting system using NB-IoT for remote control and monitoring.
-
-**The Magic:**
-* Deployed hundreds of NB-IoT enabled lighting controllers.
-* Configured the network for seamless communication.
-* Troubleshooted those pesky signal dead zones (turns out, some old buildings really hate radio waves).
-* Integrated with a cloud platform for centralized management and data analytics (seeing those energy savings roll in was *chef's kiss*).
-
-**Tech Used:** NB-IoT, [Specific Cloud Platform], Remote Management Software
-
-**My Role:** Lead field engineer, site surveys, network deployment, device configuration, problem-solving extraordinaire.
-
-**Lessons Learned:** Antenna placement is an art, and sometimes you need to bribe the local pigeons to move.
+*Always learning, always building. Let's make wireless networks work better together.*
