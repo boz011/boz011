@@ -42,7 +42,7 @@ Large-scale WiFi deployment study for stadiums and large venues. Cisco Catalyst 
 ## 🌐 Let's Connect
 
 - **GitHub:** You're already here! 
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) for professional networking
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/clint73) for professional networking
 - **X/Twitter:** Following the latest in IoT and wireless tech
 
 ---
